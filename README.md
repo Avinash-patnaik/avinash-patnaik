@@ -15,7 +15,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+Data+Scientist;LLM+%7C+RAG+%7C+NLP+%7C+MLOps;Turning+raw+data+into+intelligent+systems;From+ETL+pipelines+to+production+AI)
 
 </div>
----
 
 ## 👨‍💻 About Me
 
