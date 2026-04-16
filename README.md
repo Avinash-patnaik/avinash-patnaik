@@ -99,8 +99,6 @@ Building production ML infrastructure with a focus on reproducibility, observabi
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-patnaik&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avinash-patnaik&theme=dark&hide_border=true)
 
 </div>
