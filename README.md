@@ -9,8 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashpatnaik1001@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://avinash-patnaik.github.io/data-workshop/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
-
 </div>
 
 ---
