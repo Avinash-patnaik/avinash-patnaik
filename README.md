@@ -1,6 +1,6 @@
 <div align="center">
 
-# Avinash
+# Avinash Patnaik
 ### AI Engineer & Data Scientist
 
 *Building intelligent systems that turn complex data into real-world impact.*
