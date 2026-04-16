@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI Engineer and Data Scientist** with hands-on experience designing, building, and deploying end-to-end AI/ML systems. My work spans the full pipeline — from raw data ingestion and transformation through to model training, evaluation, and production serving. I specialise in applying large language models, NLP techniques, and scalable data engineering practices to solve complex business problems.
+I am an **AI Engineer and Data Scientist** with hands-on experience designing, building, and deploying end-to-end AI/ML systems. My work spans the full pipeline from raw data ingestion and transformation through to model training, evaluation, and production serving. I specialise in applying large language models, NLP techniques, and scalable data engineering practices to solve complex business problems.
 
-- 🌍 Based in **Rome, Italy** — working with international clients across Europe and the US
+- 🌍 Based in **Rome, Italy** working with international clients across Europe and the US
 - 🤖 Focused on **LLM-powered applications**, **NLP pipelines**, and **MLOps infrastructure**
 - 📊 Experienced in building **ETL pipelines** for structured and unstructured data at scale
 - 🚀 Passionate about bridging the gap between **research and production-grade AI systems**
